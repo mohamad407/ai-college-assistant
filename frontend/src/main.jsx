@@ -4,7 +4,7 @@ import { BrowserRouter } from 'react-router-dom';
 import { Toaster } from 'react-hot-toast';
 
 import App from './App.jsx';
-import './styles/index.css';
+//import './styles/index.css';
 
 // ─── Global error boundary (dev-friendly) ───────────────────────────────────
 class RootErrorBoundary extends React.Component {
